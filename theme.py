@@ -2,7 +2,7 @@
 Lumynary – shared theme injected into every page.
 """
 
-GOOGLE_API_KEY = "AIzaSyAwXsvdxoeaVx8Zqz13TNffF7lsO9xEeQ4"
+GOOGLE_API_KEY = "Enter your Google API key"
 
 # ── Google Font import + CSS design system ─────────────────────────────────────
 BASE_CSS = """
