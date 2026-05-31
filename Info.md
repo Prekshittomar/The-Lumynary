@@ -63,5 +63,5 @@ The streaming UX was the thing I tested hardest — not by reading the code, but
 
 ---
 
-*Built by [Your Name] · Applying for Product Engineering Intern @ TextCortex*  
-*Repo: github.com/yourhandle/lumynary*
+*Built by [Prekshit Tomar] · Applying for Product Engineering Intern @ TextCortex*  
+*Repo: github.com/Prekshittomar/The-Lumynary*
